@@ -1,8 +1,3 @@
-# while read p
-# do
-#   echo $p
-# done <source.txt
-
 pattern='<img id="img.*" src="(.*)"'
 while read line
 do
